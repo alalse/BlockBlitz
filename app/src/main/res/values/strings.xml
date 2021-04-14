@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name" translatable="false">BlockBlitz</string>
+    <string name="highscore">Your highscore: </string>
+    <string name="login_btn">Login</string>
+    <string name="account_btn">Account &amp; Statistics</string>
+    <string name="settings_btn">Settings</string>
+    <string name="anonymous_account_msg">Create an account to register and view your and others highscores and statistics!</string>
+    <string name="create_or_login">Create account or login</string>
+
+    <string name="facebook_application_id" translatable="false">1039355183205324</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1039355183205324</string>
+
+    <string name="play_btn">Play</string>
+    <string name="short_username_error">Username must be longer than 2 characters!</string>
+    <string name="whitespace_username_error">Username can not contain whitespaces!</string>
+    <string name="long_username_error">Username can not be longer than 12 characters!</string>
+    <string name="username_update_success">Username updated!</string>
+    <string name="username_update_failure">Failed to update your username</string>
+    <string name="current_username">[Current: %1$s]</string>
+    <string name="get_global_leaderboard_failure">Failed to get global leaderboard</string>
+    <string name="signin_success">Successfully signed in!</string>
+    <string name="firebase_auth_failure">Firebase authentication failed</string>
+    <string name="signin_cancelled">Sign in cancelled</string>
+    <string name="facebook_signin_failure">Facebook sign in failed</string>
+    <string name="input_password">Input a password</string>
+    <string name="input_email">Input an email-address</string>
+    <string name="signin_failure">Failed to sign in</string>
+    <string name="signin_failure_invalid_password">Failed to sign in, invalid password</string>
+    <string name="signin_failure_invalid_email">Failed to sign in, account with given email does not exist</string>
+    <string name="create_account_invalid_password">Invalid password, password must be longer than 5 characters</string>
+    <string name="create_account_invalid_email">Invalid email address</string>
+    <string name="create_account_failure">Failed to create account</string>
+    <string name="create_account_email_taken">Failed to create account, email already in use</string>
+    <string name="create_account_success">Successfully created account!</string>
+    <string name="welcome_user">Welcome %1$s!</string>
+    <string name="resume_game">Resume</string>
+    <string name="restart_game">Restart</string>
+    <string name="return_to_main_menu">Return to main menu</string>
+    <string name="game_over_highscore">Highscore: %1$s</string>
+    <string name="game_over_score">Score: %1$s</string>
+    <string name="game_over">Game over!</string>
+    <string name="boot_message">Starting BlockBlitz!</string>
+    <string name="tmp_highscore">Highscore: </string>
+    <string name="logout">Logout</string>
+    <string name="statistics">Statistics</string>
+    <string name="global">Global</string>
+    <string name="personal">Personal</string>
+    <string name="leaderboards">Leaderboards</string>
+    <string name="update_your_username">Update your username</string>
+    <string name="tmp_username">[Current: unnamed_user]</string>
+    <string name="update">Update</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="login_or_signup">Login or signup with Email</string>
+    <string name="third_party_login">Third-party login</string>
+    <string name="signup">Signup</string>
+    <string name="update_lang">Change app language</string>
+    <string name="signup_disabled">Signup has been temporarily disabled</string>
+    <string name="email_disabled">Login with email has been temporarily disabled</string>
+    <string name="google_disabled">Login with Google has been temporarily disabled</string>
+    <string name="facebook_disabled">Login with Facebook has been temporarily disabled</string>
+    <string name="google_cancel">Google login cancelled</string>
+    <string name="facebook_cancel">Facebook login cancelled</string>
+    <string name="get_user_data_failure">Failed to get user data</string>
+
+    <string-array name="langs">
+        <item>English [en]</item>
+        <item>Swedish [sv]</item>
+        <item>Dutch [nl]</item>
+    </string-array>
+    <string-array name="statistics">
+        <item>Highscore</item>
+        <item>Games played</item>
+        <item>Lines cleared</item>
+        <item>Average board fill</item>
+    </string-array>
+    <string name="global_leaderboard_index" translatable="false">%1$s:</string>
+</resources>

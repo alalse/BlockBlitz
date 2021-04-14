@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="highscore">Din highscore:</string>
+    <string name="login_btn">Logga in</string>
+    <string name="play_btn">Spela</string>
+    <string name="account_btn">Konto &amp; Statistik</string>
+    <string name="settings_btn">Inställningar</string>
+    <string name="anonymous_account_msg">Skapa ett konto för att registrera och visa din och andras bästa poäng och statistik!</string>
+    <string name="create_or_login">Skapa konto eller logga in</string>
+    <string name="email">"E-post: "</string>
+    <string name="facebook_signin_failure">Facebookinloggning misslyckades</string>
+    <string name="create_account_email_taken">Misslyckades med att skapa ett konto, email-addressen används redan</string>
+    <string name="create_account_failure">Misslyckades med att skapa ett konto</string>
+    <string name="get_global_leaderboard_failure">Misslyckades med att hämta den globala topplistan</string>
+    <string name="signin_failure_invalid_email">Inloggningen misslyckades, det finns inget konto kopplat till den angivna email-addressen</string>
+    <string name="signin_failure_invalid_password">Inloggningen misslyckades, felaktigt lösenord</string>
+    <string name="signin_failure">Inloggningen misslyckades</string>
+    <string name="username_update_failure">Misslyckades med att uppdatera ditt användarnamn</string>
+    <string name="firebase_auth_failure">Autentisering mot Firebase misslyckades</string>
+    <string name="global">Global</string>
+    <string name="game_over">Game over!</string>
+    <string name="tmp_highscore">"Bästa poäng: "</string>
+    <string name="game_over_highscore">Bästa poäng: %1$s</string>
+    <string name="input_email">Skriv in en e-postadress</string>
+    <string name="input_password">Skriv in ett lösenord</string>
+    <string name="create_account_invalid_email">Felaktig e-postadress</string>
+    <string name="create_account_invalid_password">Felaktigt lösenord, lösenord måste vara längre än 5 karaktärer</string>
+    <string name="leaderboards">Topplistor</string>
+    <string name="login_or_signup">Logga in eller skapa ett konto med e-postadress</string>
+    <string name="welcome_user">Välkommen %1$s!</string>
+    <string name="resume_game">Återuppta</string>
+    <string name="restart_game">Starta om</string>
+    <string name="return_to_main_menu">Återvänd till huvudmenyn</string>
+    <string name="game_over_score">Poäng: %1$s</string>
+    <string name="boot_message">Startar BlockBlitz!</string>
+    <string name="create_account_success">Konto skapat!</string>
+    <string name="signin_cancelled">Inloggning avbruten</string>
+    <string name="signin_success">Inloggning lyckades</string>
+    <string name="current_username">[Nuvarande: %1$s]</string>
+    <string name="username_update_success">Användarnamn uppdaterat!</string>
+    <string name="long_username_error">Användarnamn får inte vara längre än 12 karaktärer!</string>
+    <string name="whitespace_username_error">Användarnamn får inte innehålla mellanslag!</string>
+    <string name="short_username_error">Användarnamn måste vara längre än 2 karaktärer!</string>
+    <string name="logout">Logga ut</string>
+    <string name="statistics">Statistik</string>
+    <string name="personal">Personlig</string>
+    <string name="update_your_username">Uppdatera ditt användarnamn</string>
+    <string name="tmp_username">[Current: unnamed_user]</string>
+    <string name="update">Uppdatera</string>
+    <string name="password">"Lösenord: "</string>
+    <string name="third_party_login">Tredjepartsinloggning</string>
+    <string name="signup">Skapa konto</string>
+    <string name="update_lang">Ändra appens språk</string>
+    <string name="signup_disabled">Kontoregistrering har tillfälligt inaktiverats</string>
+    <string name="email_disabled">Inloggning med epost har tillfälligt inaktiverats</string>
+    <string name="google_disabled">Inloggning med Google har tillfälligt inaktiverats</string>
+    <string name="facebook_disabled">Inloggning med Facebook har tillfälligt inaktiverats</string>
+    <string name="google_cancel">Inloggning med Google avbruten</string>
+    <string name="facebook_cancel">Inloggning med Facebook avbruten</string>
+    <string name="get_user_data_failure">Misslyckades med att hämta användardata</string>
+
+    <string-array name="langs">
+        <item>Engelska [en]</item>
+        <item>Svenska [sv]</item>
+        <item>Nederländska [nl]</item>
+    </string-array>
+    <string-array name="statistics">
+        <item>Bästa poäng</item>
+        <item>Spel spelade</item>
+        <item>Rader rensade</item>
+        <item>Genomsnittlig brädefyllning</item>
+    </string-array>
+</resources>

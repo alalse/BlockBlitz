@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="false"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".ui.MainActivity">
+
+    <Button
+        android:id="@+id/playBtn"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="25dp"
+        android:text="@string/play_btn"
+        app:layout_constraintWidth_percent="0.7"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/accountBtn"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="25dp"
+        android:text="@string/account_btn"
+        app:layout_constraintWidth_percent="0.7"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="120dp" />
+
+    <Button
+        android:id="@+id/leaderboardBtn"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="25dp"
+        android:text="@string/leaderboards"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <Button
+        android:id="@+id/settingsBtn"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:text="@string/settings_btn"
+        app:layout_constraintWidth_percent="0.7"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="236dp" />
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="current_username">[Huidige: %1$s]</string>
+    <string name="tmp_username">[Huidige: unnamed_user]</string>
+    <string name="account_btn">Account &amp; Statistieken</string>
+    <string name="create_or_login">Creëer account of login</string>
+    <string name="update_lang">Verander taal in app</string>
+    <string name="anonymous_account_msg">Creëer een account om je te registreren en om de highscores en statistieken van jezelf en anderen te bekijken!</string>
+    <string name="email">"E-mail: "</string>
+    <string name="facebook_signin_failure">Inloggen via Facebook mislukt</string>
+    <string name="create_account_email_taken">Account aanmaken mislukt, e-mail wordt al gebruikt</string>
+    <string name="create_account_failure">Account aanmaken mislukt</string>
+    <string name="get_global_leaderboard_failure">Mislukt om het globale scoreboard te krijgen</string>
+    <string name="signin_failure">Inloggen mislukt</string>
+    <string name="signin_failure_invalid_email">Inloggen mislukt, account met gegeven e-mail bestaat niet</string>
+    <string name="signin_failure_invalid_password">Inloggen mislukt, ongeldig wachtwoord</string>
+    <string name="username_update_failure">Updaten van je gebruikersnaam mislukt</string>
+    <string name="firebase_auth_failure">Firebase authenticatie mislukt</string>
+    <string name="game_over">Game over!</string>
+    <string name="global">Globaal</string>
+    <string name="tmp_highscore">"Highscore: "</string>
+    <string name="game_over_highscore">Highscore: %1$s</string>
+    <string name="input_email">Vul een e-mailadres in</string>
+    <string name="input_password">Vul een wachtwoord in</string>
+    <string name="create_account_invalid_email">Ongeldig e-mailadres</string>
+    <string name="create_account_invalid_password">Ongeldig wachtwoord, wachtwoord moet langer zijn dan 5 tekens zijn</string>
+    <string name="leaderboards">Scoreboards</string>
+    <string name="login_btn">Inloggen</string>
+    <string name="login_or_signup">Inloggen of aanmelden via e-mail</string>
+    <string name="logout">Uitloggen</string>
+    <string name="password">"Wachtwoord: "</string>
+    <string name="personal">Persoonlijk</string>
+    <string name="play_btn">Start</string>
+    <string name="restart_game">Herstart</string>
+    <string name="resume_game">Hervat</string>
+    <string name="return_to_main_menu">Terugkeren naar hoofdmenu</string>
+    <string name="game_over_score">Score: %1$s</string>
+    <string name="settings_btn">Instellingen</string>
+    <string name="signin_cancelled">Inloggen geannuleerd</string>
+    <string name="signup">Aanmelden</string>
+    <string name="boot_message">BlockBlitz wordt gestart!</string>
+    <string name="statistics">Statistieken</string>
+    <string name="create_account_success">Account succesvol gecreëerd</string>
+    <string name="signin_success">Succesvol ingelogd</string>
+    <string name="third_party_login">Inloggen via een derde partij</string>
+    <string name="update">Bijwerken</string>
+    <string name="update_your_username">Werk je gebruikersnaam bij</string>
+    <string name="long_username_error">Gebruikersnaam kan niet langer zijn dan 12 tekens!</string>
+    <string name="whitespace_username_error">Gebruikersnaam kan geen spatietekens bevatten!</string>
+    <string name="short_username_error">Gebruikersnaam moet langer zijn dan 2 tekens!</string>
+    <string name="username_update_success">Gebruikersnaam bijgewerkt!</string>
+    <string name="welcome_user">Welkom %1$s!</string>
+    <string name="highscore">"Jouw highscore: "</string>
+
+    <string-array name="langs">
+        <item>Engels [en]</item>
+        <item>Zweeds [sv]</item>
+        <item>Nederlands [nl]</item>
+    </string-array>
+    <string-array name="statistics">
+        <item>Highscore</item>
+        <item>Spellen gespeeld</item>
+        <item>Gewiste lijnen</item>
+        <item>Gemiddelde bordvulling</item>
+    </string-array>
+    <string name="signup_disabled">Aanmelden is tijdelijk uitgeschakeld</string>
+    <string name="email_disabled">Inloggen via e-mail is tijdelijk uitgeschakeld</string>
+    <string name="google_disabled">Inloggen via Google is tijdelijk uitgeschakeld</string>
+    <string name="facebook_disabled">Inloggen via Facebook is tijdelijk uitgeschakeld</string>
+    <string name="google_cancel">Google login geannuleerd</string>
+    <string name="facebook_cancel">Facebook login geannuleerd</string>
+    <string name="get_user_data_failure">Verkrijgen van gebruikersgegevens mislukt</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <defaultsMap>
+        <entry>
+            <key>signup_enabled</key>
+            <value>true</value>
+        </entry>
+        <entry>
+            <key>email_login_enabled</key>
+            <value>true</value>
+        </entry>
+        <entry>
+            <key>google_login_enabled</key>
+            <value>true</value>
+        </entry>
+        <entry>
+            <key>facebook_login_enabled</key>
+            <value>true</value>
+        </entry>
+    </defaultsMap>
+</resources>
